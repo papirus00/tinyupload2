@@ -32,6 +32,7 @@ Description
 5 The number of columns to the destination table. 
 6 The file size in bytes. 
 7 The SQL Model if available, a pipe "|" delimited array represented as a string. 
- 
+
+![Alt text](http://eztier.com/documentation/t24/jbase-sql-etl/images/args/tinyupload2.png)
  
 
