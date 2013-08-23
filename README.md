@@ -1,10 +1,10 @@
 tinyupload
 ==========
 
-Type: Executable
+#Type:  
+  Executable
 
-
-Description
+# Description
 
 
 The executable that uploads jBASE raw data and exploded data to SQL Server.
@@ -16,13 +16,10 @@ The executable that uploads jBASE raw data and exploded data to SQL Server.
  Because of runtime datatype checking described above, the process ensures that all rows will be uploaded to SQL Server.  
  
 
+# Arguments:
 
-Arguments:
 
-
-Position 
-
-Description
+Position Description  
 
   0 A valid SQL Server connection string.   
   1 The schema name for the destination table.   
