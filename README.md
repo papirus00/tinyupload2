@@ -33,6 +33,8 @@ Description
 6 The file size in bytes. 
 7 The SQL Model if available, a pipe "|" delimited array represented as a string. 
 
+At the command prompt or batch file, run the following for exploded data (for troubleshooting only):
+
 ![Alt text](http://eztier.com/documentation/t24/jbase-sql-etl/images/args/tinyupload2.png)
  
 
